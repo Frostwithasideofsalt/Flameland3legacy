@@ -1,0 +1,2 @@
+vsp=0
+sprite_index=playerselect_1
