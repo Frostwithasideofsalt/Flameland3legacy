@@ -14,4 +14,4 @@ Placeholder music: supertux (NNplaceholder, CCplaceholder, FFplaceholder, NNplac
 everything else: FrostC3424
 
 you can use any of the assets in this game as long as you credit the asset creator.
-
+also, see if you can find all the typos ;)
