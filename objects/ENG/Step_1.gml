@@ -1,5 +1,5 @@
 FC=FC+1
-if FC>70
+if FC>40
 {
 	FC=0
 	if T<6

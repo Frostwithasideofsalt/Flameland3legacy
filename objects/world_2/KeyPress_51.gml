@@ -1,0 +1,1 @@
+room_goto(Wicked_woods_1)

@@ -37,7 +37,7 @@ vsp=-8
 }
 if(place_meeting(x,y,watertile)) and (key_jump) and Pl=2 and !(place_meeting(x,y+1,BLOCK))
 {
-vsp=-3
+vsp=-5
 }
 
 if(place_meeting(x+hsp,y,BLOCK)) and (key_jump) and (Pl=2) and (T>1)
@@ -93,7 +93,7 @@ if (place_meeting(x,y+vsp,SemiSolid) and (vsp>0))
 }
 y=y+vsp;
 
-//anime is for weebs
+//walking stuff
 X=x Y=y
 if (!key_left = 0) and (!key_right = 0)
 {
